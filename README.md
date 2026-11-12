@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**ibrahimdawood5980/Ibrahimdawood5980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammad Ibrahim 👋
 
-Here are some ideas to get you started:
+### 💻 Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a Web Developer learning and building modern,
+responsive and user-friendly websites.
+
+## 🚀 My Skills
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- GoHighLevel (GHL)
+- VS Code
+
+## 🌐 My Portfolio
+
+[Visit My Portfolio](https://ibrahimdawood5980.github.io/my-portfolio/)
+
+## 🎯 My Goal
+
+To become a professional Web Developer and create
+modern, creative and responsive websites.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ibrahimdawood5980
+- Portfolio: https://ibrahimdawood5980.github.io/my-portfolio/
